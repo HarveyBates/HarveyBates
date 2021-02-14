@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**HarveyBates/HarveyBates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Main Projects
+<html>
+  <p align="middle">
+        <a href="https://github.com/HarveyBates/Phenobottle"><img src="/imgs/Phenobottle Logo.png" alt="Phenobottle" width="400" hspace="20" vspace="50"></a>
+        <a href="https://github.com/HarveyBates/Open-JIP"><img src="/imgs/Open-JIP Logo.png" alt="Open-JIP" width="300" hspace="20" vspace="50"></a>
+  </p>
+</html>
 
-Here are some ideas to get you started:
+## Published Works
+- The Phenobottle, an open-source photobioreactor platform for environmental simulation - [Bates et al. 2020](https://doi.org/10.1016/j.algal.2020.102105)
+- A guide to Open-JIP, a low-cost open-source chlorophyll fluorometer - [Bates et al. 2019](https://doi.org/10.1007/s11120-019-00673-2)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Blog Articles
+- Jan 6, 2021 - [Opinion](https://harveybates.github.io/technology/2021/01/06/algaltech.html): The standardisation of problem solving in science
+- Dec 29, 2020 - [Tutorial](https://harveybates.github.io/tutorial/2020/12/29/PySerialArduinoTutorial.html): Reading array from an Arduino using PySerial
