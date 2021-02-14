@@ -2,8 +2,8 @@
 ## Main Projects
 <html>
   <p align="middle">
-        <a href="https://github.com/HarveyBates/Phenobottle"><img src="/imgs/Phenobottle Logo.png" alt="Phenobottle" width="400" hspace="20" vspace="50"></a>
-        <a href="https://github.com/HarveyBates/Open-JIP"><img src="/imgs/Open-JIP Logo.png" alt="Open-JIP" width="300" hspace="20" vspace="50"></a>
+        <a href="https://github.com/HarveyBates/Phenobottle"><img src="/imgs/Phenobottle Logo.png" alt="Phenobottle" height="100" hspace="20" vspace="50"></a>
+        <a href="https://github.com/HarveyBates/Open-JIP"><img src="/imgs/Open-JIP Logo.png" alt="Open-JIP" height="100" hspace="20" vspace="50"></a>
   </p>
 </html>
 
