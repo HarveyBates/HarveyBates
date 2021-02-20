@@ -12,5 +12,6 @@
 - A guide to Open-JIP, a low-cost open-source chlorophyll fluorometer - [Bates et al. 2019](https://doi.org/10.1007/s11120-019-00673-2)
 
 ## Blog Articles
+- Feb 20, 2021 - [Guide](https://harveybates.github.io/technology/2021/02/20/reflow.html): Reflow-soldering without the expensive equipment
 - Jan 6, 2021 - [Opinion](https://harveybates.github.io/technology/2021/01/06/algaltech.html): The standardisation of problem solving in science
 - Dec 29, 2020 - [Tutorial](https://harveybates.github.io/tutorial/2020/12/29/PySerialArduinoTutorial.html): Reading array from an Arduino using PySerial
