@@ -1,12 +1,3 @@
-
-## Main Projects
-<html>
-  <p align="middle">
-        <a href="https://github.com/HarveyBates/Phenobottle"><img src="/imgs/Phenobottle Logo.png" alt="Phenobottle" height="100" hspace="20" vspace="50"></a>
-        <a href="https://github.com/HarveyBates/Open-JIP"><img src="/imgs/Open-JIP Logo.png" alt="Open-JIP" height="100" hspace="20" vspace="50"></a>
-  </p>
-</html>
-
 ## Published Works
 - Real-Time Environmental Monitoring for Aquaculture Using a LoRaWAN-Based IoT Sensor Network - [Bates et al. 2021](https://doi.org/10.3390/s21237963)
 - The Phenobottle, an open-source photobioreactor platform for environmental simulation - [Bates et al. 2020](https://doi.org/10.1016/j.algal.2020.102105)
