@@ -7,7 +7,7 @@
 
 ## <img src="https://img.icons8.com/parakeet/48/null/idea.png" width=30/> Open-Source Projects 
 ### Personal
-#### <img src="https://img.icons8.com/offices/30/null/electronics.png"/> Embedded Firmware
+#### <img src="https://img.icons8.com/offices/30/null/electronics.png"/> Embedded Firmware / Electronics
 - [arduino-clap](https://github.com/HarveyBates/arduino-clap): Arduino command line argument parser (CLAP).
 - [ESP32-SDI12](https://github.com/HarveyBates/ESP32-SDI12): ESP32 SDI-12 protocol interface.
 - [Open-JIP](https://github.com/HarveyBates/Open-JIP): Open-source chlorophyll fluorometer.
@@ -22,7 +22,7 @@
 - [random](https://github.com/HarveyBates/random): Test scripts for everything.
 
 ### Professional
-#### <img src="https://img.icons8.com/offices/30/null/electronics.png"/> Embedded Firmware
+#### <img src="https://img.icons8.com/offices/30/null/electronics.png"/> Embedded Firmware / Electronics
 - [environmental-node](https://github.com/DPIclimate/enviro-node): CAT-M1 node for environmental research.
 - [sheep-weighstation](https://github.com/DPIclimate/ag-node): Remote LoRaWAN weigh-station for assessing sheep live-weight.
 - [bLE-oyster](https://github.com/DPIclimate/bLE-oyster): Oyster simulator for temperature monitoring.
