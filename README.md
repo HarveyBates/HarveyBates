@@ -25,7 +25,7 @@
 #### <img src="https://img.icons8.com/offices/30/null/electronics.png"/> Embedded Firmware / Electronics
 - [environmental-node](https://github.com/DPIclimate/enviro-node): CAT-M1 node for environmental research.
 - [sheep-weighstation](https://github.com/DPIclimate/ag-node): Remote LoRaWAN weigh-station for assessing sheep live-weight.
-- [bLE-oyster](https://github.com/DPIclimate/bLE-oyster): Oyster simulator for temperature monitoring.
+- [bLE-oyster](https://github.com/DPIclimate/bLE-oyster): Bluetooth Low Energy (bLE), oyster simulator for temperature monitoring.
 
 #### <img src="https://img.icons8.com/color/48/null/code-folder.png" width=30/> Software
 - [oyster-closure-prediction](https://github.com/DPIclimate/ha-closure-analysis): Oyster harvest area closure prediction.
