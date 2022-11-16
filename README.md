@@ -5,7 +5,7 @@
 - Normalized chlorophyll fluorescence imaging: A method to determine irradiance and photosynthetically active radiation in phytoplankton cultures - [Zavafer et al. 2021](https://doi.org/10.1016/j.algal.2021.102309)
 
 
-## <img src="https://img.icons8.com/parakeet/48/null/idea.png" width=30/> Projects 
+## <img src="https://img.icons8.com/parakeet/48/null/idea.png" width=30/> Open-Source Projects 
 ### Personal
 #### <img src="https://img.icons8.com/offices/30/null/electronics.png"/> Embedded Firmware
 - [arduino-clap](https://github.com/HarveyBates/arduino-clap): Arduino command line argument parser (CLAP).
