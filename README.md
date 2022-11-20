@@ -8,6 +8,7 @@
 ## <img src="https://img.icons8.com/parakeet/48/null/idea.png" width=30/> Open-Source Projects 
 ### Personal
 #### <img src="https://img.icons8.com/offices/30/null/electronics.png"/> Embedded Firmware / Electronics
+- [esp32-clover](https://github.com/HarveyBates/esp32-clover): ESP32 development board.
 - [arduino-clap](https://github.com/HarveyBates/arduino-clap): Arduino command line argument parser (CLAP).
 - [ESP32-SDI12](https://github.com/HarveyBates/ESP32-SDI12): ESP32 SDI-12 protocol interface.
 - [Open-JIP](https://github.com/HarveyBates/Open-JIP): Open-source chlorophyll fluorometer.
