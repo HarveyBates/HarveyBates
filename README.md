@@ -13,7 +13,7 @@
 - [ESP32-SDI12](https://github.com/HarveyBates/ESP32-SDI12): ESP32 SDI-12 protocol interface.
 - [Open-JIP](https://github.com/HarveyBates/Open-JIP): Open-source chlorophyll fluorometer.
 - [Phenobottle](https://github.com/HarveyBates/Phenobottle): Open-source photobioreactor for microalgae.
-- [STM32-SDI12](https://github.com/HarveyBates/stm32-projects/tree/master/l476rg-sdi12): STM32 SDI-12 protocol interface.
+- [STM32-SDI12](https://github.com/HarveyBates/STM32-SDI12): STM32 SDI-12 protocol interface.
 - [STM32-MCP9808](https://github.com/HarveyBates/stm32-projects/tree/master/l476rg-i2c): STM32 MCP9808 I<sub>2</sub>C interface.
 - [PAR-Meter](https://github.com/HarveyBates/PARmeter): Open-source PAR meter.
 
