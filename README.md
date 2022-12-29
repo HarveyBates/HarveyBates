@@ -1,4 +1,5 @@
 ## <img src="https://img.icons8.com/external-others-phat-plus/64/null/external-academic-law-color-line-others-phat-plus-7.png" width=30/> Publications 
+- The slow-phase of chlorophyll fluorescence induction curve reflects the electron transport rates of Photosystem II in vivo in Chlorella vulgaris - [Bates et al. 2022](https://link.springer.com/article/10.1007/s10811-022-02890-0)
 - Real-Time Environmental Monitoring for Aquaculture Using a LoRaWAN-Based IoT Sensor Network - [Bates et al. 2021](https://doi.org/10.3390/s21237963)
 - The Phenobottle, an open-source photobioreactor platform for environmental simulation - [Bates et al. 2020](https://doi.org/10.1016/j.algal.2020.102105)
 - A guide to Open-JIP, a low-cost open-source chlorophyll fluorometer - [Bates et al. 2019](https://doi.org/10.1007/s11120-019-00673-2)
