@@ -19,6 +19,8 @@
 - [PAR-Meter](https://github.com/HarveyBates/PARmeter): Open-source PAR meter.
 
 #### <img src="https://img.icons8.com/color/48/null/code-folder.png" width=30/> Software
+- [kandle](https://github.com/HarveyBates/kicad-component-handler): KiCAD 3rd-party component handler.
+- [kicad-rename-zsh](https://github.com/HarveyBates/kicad-rename-zsh): Rename KiCAD projects.
 - [jupy-geospatial](https://github.com/HarveyBates/jupy-geospatial): Geospatial jupyter environment dockerized.
 - [AOC-soutions](https://github.com/HarveyBates/AdventOfCode): Advent of code solutions.
 - [random](https://github.com/HarveyBates/random): Test scripts for everything.
