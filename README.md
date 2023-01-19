@@ -37,8 +37,4 @@
 - [pilot-reports](https://github.com/DPIclimate/pilot-reports): Automated PDF and web generated environmental reports.
 - [IoT-interpolation](https://github.com/DPIclimate/iot-spatial-interpolation): 3D interpolation for spatially distributed IoT devices.
 
-## Blog Articles
-- Feb 20, 2021 - [Guide](https://harveybates.github.io/technology/2021/02/20/reflow.html): Reflow-soldering without the expensive equipment
-- Dec 29, 2020 - [Tutorial](https://harveybates.github.io/tutorial/2020/12/29/PySerialArduinoTutorial.html): Reading array from an Arduino using PySerial
-
 <a href="https://icons8.com" style="font-size: 2px">Icons by Icons8</a>
