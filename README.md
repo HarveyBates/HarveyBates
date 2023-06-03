@@ -33,6 +33,7 @@
     <b>Software</b>
   </summary>
   
+- [himawari-dl](https://github.com/HarveyBates/himawari-dl): Download high-resolution images from the Japanese geostationary satellite, Himawari.
 - [portstream](https://github.com/HarveyBates/portstream): Minimal serial port streaming for unix systems.
 - [lmic-wrapper](https://github.com/HarveyBates/lmic-wrapper): Arduino-LMIC LoRaWAN communications setup and handler.
 - [kandle](https://github.com/HarveyBates/kicad-component-handler): KiCAD 3rd-party component handler.
