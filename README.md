@@ -16,7 +16,8 @@
   <summary>
     <b>Firmware / Electronics</b>
   </summary>
-  
+
+- [u-nit](https://github.com/HarveyBates/u-nit): High-power STM32 based development board. 
 - [esp32-clover](https://github.com/HarveyBates/esp32-clover): ESP32 development board.
 - [arduino-clap](https://github.com/HarveyBates/arduino-clap): Arduino command line argument parser (CLAP).
 - [ESP32-SDI12](https://github.com/HarveyBates/ESP32-SDI12): ESP32 SDI-12 protocol interface.
