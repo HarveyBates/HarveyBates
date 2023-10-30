@@ -17,6 +17,7 @@
     <b>Firmware / Electronics</b>
   </summary>
 
+- [controllino-can](https://github.com/HarveyBates/controllino-can): Controllino CANbus interface.
 - [u-nit](https://github.com/HarveyBates/u-nit): High-power STM32 based development board. 
 - [esp32-clover](https://github.com/HarveyBates/esp32-clover): ESP32 development board.
 - [arduino-clap](https://github.com/HarveyBates/arduino-clap): Arduino command line argument parser (CLAP).
